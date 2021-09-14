@@ -1,4 +1,8 @@
 # Wine Reviews
+This is an open source project.
+
+## Objective
+
 *Create a predictive model to identify wines through blind tasting like a master sommelier*
 
 **Inspiration**
@@ -16,3 +20,4 @@ This dataset contains three files:
 3. winemag-data-130k-v2.json contains 6919 nodes of wine reviews.
 
 [Here is a link to the dataset](https://www.kaggle.com/zynicide/wine-reviews)
+[Contributors](https://github.com/HamoyeHQ/stage-f-06-wine-tasting/graphs/contributors)
