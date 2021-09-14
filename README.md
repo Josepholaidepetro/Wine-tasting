@@ -20,4 +20,7 @@ This dataset contains three files:
 3. winemag-data-130k-v2.json contains 6919 nodes of wine reviews.
 
 [Here is a link to the dataset](https://www.kaggle.com/zynicide/wine-reviews)
+
+
+# Project contributors
 [Contributors](https://github.com/HamoyeHQ/stage-f-06-wine-tasting/graphs/contributors)
